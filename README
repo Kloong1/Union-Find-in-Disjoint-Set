@@ -1,0 +1,5 @@
+Union-Find operation in Disjoint Set ADT
+
+Default element type is integer.
+
+main.cs is to test the Union-Find algorithm. There are no other functions.
